@@ -6,6 +6,8 @@ The bot keeps tasks in `Task_Planner.xlsx` and lets you manage them from Telegra
 
 This repository is prepared for public GitHub use. It must not contain real Telegram tokens, LLM API keys, private chat IDs, runtime state, or personal task data.
 
+For now Bot undertands instructions only on Russian.  
+
 ## What the bot can do
 
 - Add tasks to planner.
