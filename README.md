@@ -8,7 +8,7 @@ This repository is prepared for public GitHub use. It must not contain real Tele
 
 ## What the bot can do
 
-- Add tasks to an Excel planner.
+- Add tasks to planner.
 - Show all tasks with row numbers.
 - Show tasks for today, overdue tasks, upcoming tasks, nearest future tasks, and a full summary.
 - Show tasks for a specific date or date range.
@@ -17,7 +17,6 @@ This repository is prepared for public GitHub use. It must not contain real Tele
 - Rename tasks.
 - Mark tasks as completed.
 - Ask for confirmation before potentially destructive changes.
-- Send a daily digest to a configured Telegram chat.
 - Restrict access by Telegram Chat ID.
 - Optionally understand Russian free-form text with an LLM.
 - Optionally transcribe Telegram voice messages with an LLM transcription endpoint.
@@ -180,21 +179,6 @@ The script also supports environment variables:
 
 For backward compatibility, the script also accepts legacy config keys such as `openai_api_key`, `openai_base_url`, `openai_intent_model`, and `openai_transcription_model`.
 
-## Basic commands
-
-```text
-/start
-/help
-/add Task name | 25.05.2026
-/add Pay invoice | tomorrow
-/list
-/delete 4
-/delete 2 3 4
-/today
-/overdue
-/soon
-/nearest
-/summary
 ```
 
 CLI mode without Telegram:
