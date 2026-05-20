@@ -1,0 +1,13 @@
+{
+  "bot_token": "PASTE_TELEGRAM_BOT_TOKEN_HERE",
+  "allowed_chat_ids": [],
+  "notification_chat_id": "",
+  "planner_file": "Task_Planner.xlsx",
+  "soon_days": 7,
+  "daily_digest_time": "09:00",
+  "llm_api_key": "",
+  "llm_base_url": "https://api.openai.com/v1",
+  "llm_transcription_model": "gpt-4o-mini-transcribe",
+  "llm_intent_model": "gpt-4o-mini",
+  "voice_language": "ru"
+}

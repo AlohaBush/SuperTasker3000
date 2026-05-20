@@ -1,0 +1,2 @@
+# No mandatory third-party Python packages.
+# Optional for Telegram voice messages: install ffmpeg at OS level.
