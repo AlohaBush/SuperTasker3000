@@ -15,7 +15,7 @@ For now Bot undertands instructions only on Russian.
 
 - Add tasks to planner.
 - Show all tasks with row numbers.
-- Show tasks for today, overdue tasks, upcoming tasks, nearest future tasks, and a full summary.
+- Show tasks for today, overdue tasks, upcoming tasks, nearest future tasks, and a full summary etc.
 - Show tasks for a specific date or date range.
 - Delete tasks by row number or by matching task text.
 - Move tasks to another date.
@@ -23,8 +23,6 @@ For now Bot undertands instructions only on Russian.
 - Mark tasks as completed.
 - Ask for confirmation before potentially destructive changes.
 - Restrict access by Telegram Chat ID.
-- Optionally understand Russian free-form text with an LLM.
-- Optionally transcribe Telegram voice messages with an LLM transcription endpoint.
 
 The built-in command and date parser is mainly optimized for Russian phrases such as `сегодня`, `завтра`, `перенеси`, `удали`, `отметь выполненной`. Slash commands work without an LLM.
 
