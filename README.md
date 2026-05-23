@@ -1,4 +1,4 @@
-# Telegram Task Planner Bot
+# SuperTasker3000
 
 A lightweight personal Telegram bot that keeps tasks and lets you manage them from Telegram: add tasks, list tasks, move due dates, rename tasks, mark tasks as completed, delete tasks after confirmation, and receive digests.
 
