@@ -46,8 +46,8 @@ The built-in command and date parser is mainly optimized for Russian phrases suc
 
 - Python 3.10 or newer.
 - A Telegram bot token from `@BotFather`.
-- Optional: `ffmpeg` for Telegram voice messages. Telegram voice messages are usually OGG/Opus, and the bot converts them before transcription.
-- Optional: an LLM API key for free-form natural language parsing, task-table questions, and voice transcription.
+- `ffmpeg` for Telegram voice messages. Telegram voice messages are usually OGG/Opus, and the bot converts them before transcription.
+LLM API key for free-form natural language parsing, task-table questions, and voice transcription.
 
 The script uses only the Python standard library. There are no mandatory Python packages to install.
 
