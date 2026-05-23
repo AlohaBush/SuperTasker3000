@@ -6,7 +6,7 @@ The bot keeps tasks and lets you manage them from Telegram: add tasks, list task
 
 This repository is prepared for public GitHub use. It must not contain real Telegram tokens, LLM API keys, private chat IDs, runtime state, or personal task data.
 
-For now Bot undertands instructions only on Russian.  
+For now Bot supports commands only on Russian.  
 
 <img width="1000" height="1000" alt="ChatGPT" src="https://github.com/user-attachments/assets/2d5deec7-4fa5-4ca9-8a5a-4604450c4e22" />
 
