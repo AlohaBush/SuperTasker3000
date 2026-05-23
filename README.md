@@ -1,10 +1,6 @@
 # Telegram Task Planner Bot
 
-A lightweight personal Telegram bot that uses an Excel workbook as a task planner.
-
-The bot keeps tasks and lets you manage them from Telegram: add tasks, list tasks, move due dates, rename tasks, mark tasks as completed, delete tasks after confirmation, and receive digests.
-
-This repository is prepared for public GitHub use. It must not contain real Telegram tokens, LLM API keys, private chat IDs, runtime state, or personal task data.
+A lightweight personal Telegram bot that keeps tasks and lets you manage them from Telegram: add tasks, list tasks, move due dates, rename tasks, mark tasks as completed, delete tasks after confirmation, and receive digests.
 
 For now Bot supports commands only on Russian.  
 
